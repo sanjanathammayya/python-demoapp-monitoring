@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: pythonweb
-        image: sanjana0910/flask6:v1
+        image: sanjana0910/flask7:v1
         ports:
         - containerPort: 5000
